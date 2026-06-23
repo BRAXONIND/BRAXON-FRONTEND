@@ -1,0 +1,17 @@
+{
+  "name": "BRAXON TAC-X",
+  "vendorId": "0x4252",
+  "productId": "0x5443",
+  "lighting": "none",
+  "matrix": {
+    "rows": 3,
+    "cols": 4
+  },
+  "layouts": {
+    "labels": [
+      ["K00", "K01", "K02", "K03"],
+      ["K04", "K05", "K06", "K07"],
+      ["K08", "K09", "K10", "K11"]
+    ]
+  }
+}
